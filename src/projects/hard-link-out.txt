@@ -1,0 +1,9 @@
+TCU Build Automation Meeting - Friday January 24, 2024
+
+Nexus going away Monday 
+Moving to Artifactory 
+
+Semantic Versioning Tool
+updates the version based on commits, not based on jenkins build(currently how its done)
+
+
