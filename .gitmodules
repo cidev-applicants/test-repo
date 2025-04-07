@@ -1,6 +1,6 @@
 [submodule "flask"]
-	path = flask
+	path = src/projects/flask
 	url = https://github.com/pallets/flask
 [submodule "express"]
-	path = express
+	path = src/projects/express
 	url = https://github.com/expressjs/express
