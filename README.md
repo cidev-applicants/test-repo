@@ -3,6 +3,7 @@ This is a testing repository that includes open source projects and software whi
 
 ## Cloning Instructions
 This repository contains git submodules. To ensure that they are cloned and initialized properly, you must pass in an extra flag when cloning. Use the --recurse-submodules.
+
 `git clone --recurse-submodules https://github.com/cidev-applicants/test-repo.git`
 
 ## Open Source Software Used
