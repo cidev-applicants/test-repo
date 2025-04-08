@@ -1,8 +1,8 @@
 # test-repo
-This is a testing repository that includes open source projects and software which applicants can use to test their directory tool.
+This is a testing repository that includes various open source software projects, dummy web applications, and miscellaneous test files.
 
 ## Cloning Instructions
-This repository contains git submodules. To ensure that they are cloned and initialized properly, you must pass in an extra flag when cloning. Use the --recurse-submodules.
+This repository contains git submodules. To ensure that they are cloned and initialized properly, you must pass in an extra flag when cloning. Use the --recurse-submodules flag.
 
 `git clone --recurse-submodules https://github.com/cidev-applicants/test-repo.git`
 
