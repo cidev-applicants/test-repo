@@ -1,6 +1,10 @@
 # test-repo
 This is a testing repository that includes open source projects and software which applicants can use to test their directory tool.
 
+## Cloning Instructions
+This repository contains git submodules. To ensure that they are cloned and initialized properly, you must pass in an extra flag when cloning. Use the --recurse-submodules.
+git clone --recurse-submodules https://github.com/cidev-applicants/test-repo.git 
+
 ## Open Source Software Used
 - Flask: https://github.com/pallets/flask/
     - license: https://github.com/pallets/flask/?tab=BSD-3-Clause-1-ov-file
